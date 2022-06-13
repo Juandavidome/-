@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\bin\Debug\net6.0\Nomina01.exe
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\bin\Debug\net6.0\Nomina01.deps.json
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\bin\Debug\net6.0\Nomina01.runtimeconfig.json
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\bin\Debug\net6.0\Nomina01.dll
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\bin\Debug\net6.0\Nomina01.pdb
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.dll
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\refint\Nomina01.dll
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.pdb
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\Nomina01.genruntimeconfig.cache
+C:\Users\Sena\source\repos\Visual Studio\Nomina01\obj\Debug\net6.0\ref\Nomina01.dll

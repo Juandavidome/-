@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomina01", "Nomina01.csproj", "{659B9FA5-A67C-4CD9-B43C-35068CEBB5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659B9FA5-A67C-4CD9-B43C-35068CEBB5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659B9FA5-A67C-4CD9-B43C-35068CEBB5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659B9FA5-A67C-4CD9-B43C-35068CEBB5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659B9FA5-A67C-4CD9-B43C-35068CEBB5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D99A0FE-B5C4-488F-B0AC-9E11F0FDA815}
+	EndGlobalSection
+EndGlobal
